@@ -1,0 +1,14 @@
+{
+  "name": "pglite-gzip-repro",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@electric-sql/pglite": "^0.2.12"
+  }
+}
